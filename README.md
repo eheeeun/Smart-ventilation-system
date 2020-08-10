@@ -12,9 +12,14 @@ Development Environment
 
 Feature
 --------------
+Own protocol
 - Made own protocol to communicate data moving server between devices(application and virtual device)
 - It is used in socket commnication
 <img width="300" src="https://user-images.githubusercontent.com/38809474/89761272-fabbae00-db28-11ea-8c70-2412d53ba48e.png">
+
+Linear Regression algorithm
+- Under image shows traning data using linear regression
+<img width="300" src="https://user-images.githubusercontent.com/38809474/89761648-d0b6bb80-db29-11ea-9b43-89cb8d6b24d2.png">
 
 Virtual Fan image
 --------------
